@@ -41,10 +41,6 @@ Passport Pals uses a **compatibility-based ranking system** that prioritizes sha
 ## 🚧 Project Status
 This project is a **portfolio prototype** built with **dummy data** for demonstration purposes. It focuses on product thinking, frontend architecture, and user experience rather than production-level security or scalability.
 
----
-
-## 🌐 Live Demo
-👉 https://passportpals.fun
 
 ---
 
